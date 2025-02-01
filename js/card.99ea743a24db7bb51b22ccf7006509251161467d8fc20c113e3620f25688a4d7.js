@@ -1,0 +1,1 @@
+(()=>{document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".image-main").forEach(e=>{let n=e.src.replace("_1.webp","");e.addEventListener("mouseenter",()=>{e.src.includes("_2.webp")||(e.src=`${n}_2.webp`)}),e.addEventListener("mouseleave",()=>{e.src.includes("_1.webp")||(e.src=`${n}_1.webp`)})})});})();

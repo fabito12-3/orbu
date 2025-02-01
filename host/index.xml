@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Host on Alquiler de apartamentos en santa marta - ORBURITICA</title>
+    <link>https://orburitica.com/host/</link>
+    <description>Recent content in Host on Alquiler de apartamentos en santa marta - ORBURITICA</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://orburitica.com/host/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laura</title>
+      <link>https://orburitica.com/host/laura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://orburitica.com/host/laura/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
